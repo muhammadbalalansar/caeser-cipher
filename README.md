@@ -40,7 +40,7 @@ caesar-cipher encrypt "HELLO WORLD" --key 3
 >
 > Install: `curl -sSf https://just.systems/install.sh | bash -s -- --to ~/.local/bin`
 
-## Commands
+## Commands :
 
 | Command | Description |
 |---------|-------------|
