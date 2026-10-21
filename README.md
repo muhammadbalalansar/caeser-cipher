@@ -20,7 +20,7 @@
 
 **[Screenshots & demo →](DEMO.md)**
 
-## What It Does
+## What It Does:
 
 - Encrypt text using Caesar cipher with a specified shift key
 - Decrypt ciphertext back to plaintext with the original key
