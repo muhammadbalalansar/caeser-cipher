@@ -14,7 +14,7 @@
 [![License: AGPLv3](https://img.shields.io/badge/License-AGPL_v3-purple.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![PyPI](https://img.shields.io/pypi/v/caesar-salad-cipher?color=3775A9&logo=pypi&logoColor=white)](https://pypi.org/project/caesar-salad-cipher/)
 
-> Caesar cipher encryption, decryption, and brute-force cracking CLI with frequency analysis
+> Caesar cipher encryption, decryption, and brute-force cracking CLI with frequency  analysis
 
 *This is a quick overview — security theory, architecture, and full walkthroughs are in the [learn modules](#learn).*
 
