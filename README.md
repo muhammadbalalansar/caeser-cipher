@@ -50,7 +50,7 @@ caesar-cipher encrypt "HELLO WORLD" --key 3
 
 ## Learn
 
-This project includes step-by-step learning materials covering security theory, architecture, and   implementation
+This project includes step-by-step learning materials covering security theory, architecture, and   implementation. 
 
 | Module | Topic |
 |--------|-------|
