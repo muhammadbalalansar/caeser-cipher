@@ -28,7 +28,7 @@
 - Frequency analysis Does* identify the most likely plaintext
 - Clean  Rich terminal output with colored tables
 
-*## Quick Start*
+## *Quick Start*
 
 ```bash
 uv tool install caesar-salad-cipher
