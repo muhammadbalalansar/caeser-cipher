@@ -46,7 +46,7 @@ caesar-cipher encrypt "HELLO WORLD" --key 3
 |---------|-------------|
 | `caesar-cipher encrypt` | Encrypt plaintext using a specified shift key |
 | `caesar-cipher decrypt` | Decrypt ciphertext back to plaintext with the original key |
-| `caesar-cipher crack` | Brute-force all 26 shifts with frequency analysis ranking |
+| `caesar-cipher crack`| Brute-force all 26 shifts with frequency analysis ranking |
 
 ## Learn
 
