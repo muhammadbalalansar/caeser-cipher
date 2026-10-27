@@ -61,6 +61,6 @@ This project includes step-by-step learning materials covering security theory, 
 | [04 - Challenges](learn/04-CHALLENGES.md) | Extension ideas and exercises |
 
 
-## License:
+## License
 
 AGPL 3.0
