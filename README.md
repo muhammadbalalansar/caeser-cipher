@@ -25,7 +25,7 @@
 - Encrypt text using Caesar cipher with a specified shift key
 - Decrypt ciphertext back to plaintext with the original key
 - Brute-force crack unknown ciphertext by testing all 26 shifts
-- Frequency analysis ranking to identify the most likely plaintext
+- Frequency analysis Does* identify the most likely plaintext
 - Clean  Rich terminal output with colored tables
 
 ## Quick Start
