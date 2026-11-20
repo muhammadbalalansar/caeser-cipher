@@ -21,7 +21,7 @@
 **[Screenshots & demo →](DEMO.md)**
 
 ## What It Does      
-
+        
 - Encrypt text using Caesar cipher with a specified shift key
 - Decrypt ciphertext back to plaintext with the original key
 - Brute-force crack unknown ciphertext by testing all 26 shifts
